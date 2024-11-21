@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "username": "kiyansh",
+    "password": "$2b$10$Cj/UvgUy6.INpZ/xh8Tmqu//KIbmNwuFDPCDxbz0mSEQMBjyKJhJu",
+    "bio": "",
+    "followers": [
+      "kritika"
+    ],
+    "following": [],
+    "followersCount": 1,
+    "isAdmin": false,
+    "role": "user"
+  },
+  {
+    "id": 2,
+    "username": "kritika",
+    "password": "$2b$10$O2CgM/zpef7grPfu.1Eree5OEsqFUNMp8N7t9g0OPEy2H0EuJRCdi",
+    "bio": "",
+    "followers": [
+      "nitisha",
+      "aniket"
+    ],
+    "following": [
+      "kiyansh",
+      "nitisha"
+    ],
+    "followingCount": 2,
+    "followersCount": 2,
+    "isAdmin": true,
+    "role": "superadmin"
+  },
+  {
+    "id": 3,
+    "username": "nitisha",
+    "password": "$2b$10$gCI2qx7xv49Q.gqY.vXY0.1xPqcx7QmwnWx4daoLxDFnhx2Dszmdi",
+    "bio": "Updated bio for this user.",
+    "followers": [
+      "kritika",
+      "tarun"
+    ],
+    "following": [
+      "kritika"
+    ],
+    "followersCount": 3,
+    "followingCount": 1,
+    "isAdmin": true,
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "username": "tarun",
+    "password": "$2b$10$.MGHz7VVZHF8cnryLhav5.UBMSoz5QSIHgqSKWO59FB3E2j7hGV5a",
+    "bio": "",
+    "followers": [],
+    "following": [
+      "nitisha"
+    ],
+    "followingCount": 1
+  },
+  {
+    "id": 5,
+    "username": "tina",
+    "password": "$2b$10$0ktOYRNF5tm3nGDAB4iWMeXLlcR5dXPS6WBzv9XqLr1Gf/IjlOQ1u",
+    "bio": "",
+    "followers": [],
+    "following": [],
+    "isAdmin": false,
+    "role": "user"
+  },
+  {
+    "id": 6,
+    "username": "janvi",
+    "password": "$2b$10$6z62Tuw79wvkr4wAwr4/oeb6Pks1xzB5du5qLOc3G.zHHzxHF8zhq",
+    "bio": "Updated bio for this user.",
+    "followers": [],
+    "following": [],
+    "isAdmin": true,
+    "role": "user",
+    "followingCount": 1
+  },
+  {
+    "id": 7,
+    "username": "tarun",
+    "password": "$2b$10$sym1PUJSU5isyQ4KFjFrz.YcGbwkmlTEw/gCF6k09SEJ8mprcbi/u",
+    "bio": "",
+    "followers": [],
+    "following": [],
+    "isAdmin": false,
+    "role": "user"
+  },
+  {
+    "id": 8,
+    "username": "aniket",
+    "password": "$2b$10$dIR3IVqFqhUOAE2ClZgVW.L7oye63PsjZNUHWOJCq.mFuwij7FdW2",
+    "bio": "heyy ",
+    "followers": [],
+    "following": [
+      "kritika"
+    ],
+    "isAdmin": false,
+    "role": "user",
+    "followingCount": 1
+  },
+  {
+    "id": 9,
+    "username": "janvi",
+    "password": "$2b$10$w3K2c83rel4yc6kyqiiC4.w7dB8YOMHRJipiHX.g9DzFHaWBa3PL2",
+    "bio": "",
+    "followers": [],
+    "following": [],
+    "isAdmin": false,
+    "role": "user"
+  }
+]

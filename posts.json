@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1731693428574,
+    "userId": 2,
+    "content": "new post ",
+    "image": "",
+    "likes": [],
+    "likesCount": 0,
+    "comments": []
+  },
+  {
+    "id": 1731693871883,
+    "postId": "1731693428574",
+    "userId": 2,
+    "content": "This is a great post!"
+  },
+  {
+    "id": 1731694020188,
+    "postId": "1731693428574",
+    "userId": 2,
+    "content": "This is a great post!"
+  },
+  {
+    "id": 1731698455340,
+    "userId": 3,
+    "content": "new post ",
+    "image": "",
+    "likes": [
+      3
+    ],
+    "likesCount": 1,
+    "comments": []
+  },
+  {
+    "id": 1731700511940,
+    "postId": "1731693428574",
+    "userId": 2,
+    "content": "This is a great post!"
+  },
+  {
+    "id": 1731904563939,
+    "userId": 6,
+    "content": "new post ",
+    "image": "",
+    "likes": [],
+    "likesCount": 0,
+    "comments": []
+  },
+  {
+    "id": 1731904823870,
+    "postId": "1731693428574",
+    "userId": 2,
+    "content": "This is a great post!"
+  },
+  {
+    "id": 1731905613490,
+    "userId": 8,
+    "content": "heyyyy",
+    "image": "",
+    "likes": [
+      8
+    ],
+    "likesCount": 1,
+    "comments": []
+  }
+]
